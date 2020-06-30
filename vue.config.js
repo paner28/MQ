@@ -1,5 +1,5 @@
 module.exports = {
-    publicPath: "/src/App.vue",
+    publicPath: "/MQ",
     outputDir: 'docs',
     filenameHashing: false,
     productionSourceMap: false,
