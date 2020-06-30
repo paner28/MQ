@@ -1,5 +1,5 @@
 module.exports = {
-    publicPath: '/src/',
+    publicPath: '/mq/',
     outputDir: 'docs',
     filenameHashing: false,
     productionSourceMap: false,
